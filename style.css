@@ -86,6 +86,7 @@ body{
 .descricao__paragrafo{
     font-size: 18px;
     color: var(--cinza-secundario);
+    font-weight: 400;
 }
 
 .telas{
@@ -98,8 +99,9 @@ body{
 }
 
 .texto__paragrafo{
-    font-size: 14px;
+    font-size: 16px;
     color: var(--cinza-secundario);
+    font-weight: 400;
 }
 
 .texto__botao{
