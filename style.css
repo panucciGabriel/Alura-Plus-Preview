@@ -120,3 +120,50 @@ body{
     padding: 5%;
     
 }
+
+.not{
+    align-items: center;
+}
+
+.notebook__imagem{
+    width: 80%;
+    padding: 5%;
+    margin-left: 4em;
+}
+
+.container__curso{
+    margin: 0 1.5em;
+    display: block;
+}
+
+.curso__titulo{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.curso__paragrafo{
+    color: var(--cinza-secundario);
+    font-size: 16px;
+}
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.dispositivos__lista{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+    margin: 5em 0;
+}
+
+.lista__item{
+    font-size: 32px;
+    font-weight: bold;
+}
